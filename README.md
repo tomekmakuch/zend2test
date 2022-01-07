@@ -1,1 +1,1 @@
-Test projekt for Zend 2 Sample Application
+Test project for Zend2 Sample Application
